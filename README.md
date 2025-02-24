@@ -20,12 +20,12 @@ For example, if I’m searching for an application launcher, I want a quick, sim
 
 <details>
   <summary><strong>Example of a bloated app</strong></summary>
-  <p><img src="readme_ressources/bloated.webp" alt="bloated"></p>
+  <p><img src="config/readme_ressources/bloated.webp" alt="bloated"></p>
 </details>
 
 <details>
   <summary><strong>Example of a non-bloated app</strong></summary>
-  <p><img src="readme_ressources/non_bloated.png" alt="non-bloated"></p>
+  <p><img src="config/readme_ressources/non_bloated.png" alt="non-bloated"></p>
 </details> 
 
 ## My packages and apps
