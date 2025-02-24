@@ -1,4 +1,4 @@
-![header](readme_ressources/header.png)
+![header](config/readme_ressources/header.png)
 My goal in creating these dotfiles was to combine a productive workstation with a pleasing design. I want my environment to be visually appealing while remaining free from unnecessary distractions. This is why I came to linux. I believe it’s also important to enjoy using your computer—it’s like tackling a difficult task: having something enjoyable along the way makes the process more bearable. Without that, it’s hard to stay motivated. I apply this same philosophy to my computer setup.
 
 
