@@ -63,12 +63,12 @@ Markdown note taking app also in a monochrome theme.
 
 ## Installation
 
-**WILL ONLY WORK ON DEBIAN-BASED DISTROS**  
-If you're not on a Debian-based distro, please install the packages manually.
+**WILL ONLY WORK ON ZSH**  
+If you're not using Zsh, please install the packages manually.
 
 ```bash
 cp -r ~/.config ~/config_backup
-git clone https://github.com/Juicyyyyyyy/dotfiles ~/.config
+git clone hhttps://github.com/grayveins/dotfiles.git ~/.config
 ```
 
 This command may create conflicts if you already have some of my packages installed, so make sure you know how to handle conflicts or clean your `.config` folder beforehand.  
