@@ -21,7 +21,7 @@ dashboard.section.header.val = {
 	"       ⠻⣿⣿⣿⣿⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⡟⢀⣀⣤⣾⡿⠃     ",
 	"                                   ",
 	"                                   ",
-	"              by Juic¥             ",
+	"              by Gray              ",
 }
 
 dashboard.section.buttons.val = {
